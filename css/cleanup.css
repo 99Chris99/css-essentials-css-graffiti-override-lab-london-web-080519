@@ -13,6 +13,6 @@ div#wall div#tag-3.slick.wicked{
   display: none;
 }
 
-div#wall .parent #tag-5.slick {
+div#wall .parent #tag-5.slick ~ img {
   display: none;
 }
